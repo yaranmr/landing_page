@@ -1,7 +1,11 @@
 
-h1 {
+p {
   color: black;
   font-family: verdana;
-  font-size: 200%;
-  line-height: 0.5em;
+  font-size: 300%;
+   padding-top: 2em;
+   line-height: 0.5em;
+   position:relative; left: 45px; top: 60px;
+   font-weight: bold;
 }
+
