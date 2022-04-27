@@ -1,6 +1,6 @@
 
 p {
-  color: black;
+  color: rgba(45, 41, 41, 0.9);
   font-family: verdana;
   font-size: 300%;
    padding-top: 2em;
@@ -9,3 +9,13 @@ p {
    font-weight: bold;
 }
 
+body{
+  background-color: rgb(219, 143, 96);
+}
+
+img {
+  margin-left: auto;
+  display: block;
+  width: 600px;
+  height: auto;
+ }
