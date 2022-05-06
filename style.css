@@ -1,17 +1,17 @@
-*{
-  margin:0;
-  padding:0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-body{
-  margin:0;
+body {
+  margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size:17px;
-  color:rgb(178, 169, 169);
-  line-height:1.6;
+  font-size: 17px;
+  color: rgb(178, 169, 169);
+  line-height: 1.6;
 }
 
-#showcase{
+#showcase {
   background-image: url('../dragrace.jpg.jpg');
   background-size: cover;
   background-position: center;
@@ -21,31 +21,28 @@ body{
   justify-content: center;
   align-items: center;
   padding: 0 20px;
-  }
+}
 
-  #showcase h1{
-    font-size:50px;
-    line-height: 65px;
-  }
-  
-  #showcase p{
-    font-size: 20px;
-    ;
-  }
-  
-  #showcase .button{
-    font-size: 18px;
-    text-decoration: none;
-    color:rgb(178, 169, 169);
-    border:rgb(178, 169, 169) 1px solid;
-    padding: 10px 20px;
-    border-radius:10px;
-    margin-top: 20px;
-  }
-  
-  #showcase .button:hover{
-    background: rgb(178, 169, 169);
-    color:black;
-  }
-  
-  
+#showcase h1 {
+  font-size: 50px;
+  line-height: 65px;
+}
+
+#showcase p {
+  font-size: 20px;
+}
+
+#showcase .button {
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(178, 169, 169);
+  border: rgb(178, 169, 169) 1px solid;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+#showcase .button:hover {
+  background: rgb(178, 169, 169);
+  color: rgb(31, 30, 30);
+}
