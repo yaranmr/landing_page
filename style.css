@@ -11,10 +11,14 @@ body {
   line-height: 1.6;
 }
 
-form{
-  line-height: 3px;
-  }
-  
+form {
+  margin-top: 50px;
+  display: flex;
+  flex-grow: 0.05;
+  overflow: hidden;
+}
+
+
 #showcase {
   background-image: url('../dragrace.jpg.jpg');
   background-size: cover;
@@ -50,4 +54,3 @@ form{
   background: rgb(178, 169, 169);
   color: rgb(31, 30, 30);
 }
-
