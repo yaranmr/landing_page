@@ -14,13 +14,15 @@ body {
 form {
   margin-top: 50px;
   display: flex;
-  flex-grow: 0.05;
   overflow: hidden;
 }
 
+button {
+  width: 60px;
+}
 
 #showcase {
-  background-image: url('../dragrace.jpg.jpg');
+  background-image: url('./dragrace.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
